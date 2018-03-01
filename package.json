@@ -1,0 +1,24 @@
+{
+  "name": "direct-execution",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "bin": {
+    "direct-exec": "direct-exec.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "read-file": "node direct-exec.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joechesney/direct-execution.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joechesney/direct-execution/issues"
+  },
+  "homepage": "https://github.com/joechesney/direct-execution#readme"
+}
